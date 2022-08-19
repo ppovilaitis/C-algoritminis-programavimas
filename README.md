@@ -6,4 +6,4 @@
 	Viso interviu sąrašo išvedimas;
 	Trijų ilgiausiai trukusių interviu išvedimas;
 	Straipsnio sudarymas pagal tematiką, atrenkant interviu;
-	Interviu pašalinimas iš sąrašo pagal nurodytą trukmę (šalinami visi mažesnės trukmės interviu už nurodytą);
+	Interviu pašalinimas iš sąrašo pagal nurodytą trukmę (šalinami visi mažesnės trukmės interviu už nurodytą); 
